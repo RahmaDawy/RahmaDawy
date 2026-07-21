@@ -66,8 +66,8 @@ Building end-to-end ML pipelines across speech recognition, computer vision, gen
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahmaDawy&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahmaDawy&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=RahmaDawy&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RahmaDawy&layout=compact&hide_border=true" height="165" />
 </p>
 
 ---
