@@ -7,7 +7,7 @@ Building end-to-end ML pipelines across speech recognition, computer vision, gen
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahmadawy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rahmadawy16@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:dawyrahma@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://huggingface.co/RahmaDawi" target="_blank"><img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" /></a>
 </p>
 
