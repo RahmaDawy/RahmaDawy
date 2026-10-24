@@ -1,75 +1,93 @@
-<h1 align="center">Hi, I'm Rahma Dawy 👋</h1>
-<h3 align="center">AI & Data Science Undergraduate — EJUST, Alexandria, Egypt</h3>
-
 <p align="center">
-Building end-to-end ML pipelines across speech recognition, computer vision, generative AI, and biomedical signal processing.
+  <img src="./assets/banner.svg" alt="Rahma Dawy — AI & Data Science" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahmadawy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dawyrahma@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://huggingface.co/RahmaDawi" target="_blank"><img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" /></a>
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=19&duration=3200&pause=900&color=C15F3C&center=true&vCenter=true&width=760&height=40&lines=Agentic+AI+%C2%B7+LLM+orchestration+%C2%B7+tool+calling;Speech+recognition+%C2%B7+Computer+vision+%C2%B7+Generative+AI;From+raw%2C+noisy+data+to+systems+that+ship" alt="Typing animation" />
+  </a>
 </p>
 
----
-
-### 🧠 What I work on
-
-- 🎙️ **Speech & NLP** — fine-tuning Whisper, custom CTC-based ASR, Arabic dialect processing
-- 👁️ **Computer Vision** — classification & segmentation pipelines, medical imaging
-- 🎨 **Generative AI** — latent diffusion models for synthetic medical data
-- 📡 **Biomedical Signal Processing** — EEG, MFCC, STFT, biometric identification
-- 📊 **Data Science** — feature engineering, statistical analysis, dashboarding
-
----
-
-### 🛠️ Languages & Frameworks
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" />
-  <img src="https://img.shields.io/badge/-C++-000?&logo=c%2B%2B&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" />
-  <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL" />
-  <img src="https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch" />
-  <img src="https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow" />
-  <img src="https://img.shields.io/badge/-Keras-000?&logo=Keras&logoColor=D00000" />
-  <img src="https://img.shields.io/badge/-Scikit--learn-000?&logo=scikit-learn" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahmadawy"><img src="https://img.shields.io/badge/LinkedIn-1F1E1D?style=for-the-badge&logo=linkedin&logoColor=D97757" /></a>
+  <a href="mailto:dawyrahma@gmail.com"><img src="https://img.shields.io/badge/Email-1F1E1D?style=for-the-badge&logo=gmail&logoColor=D97757" /></a>
+  <a href="https://huggingface.co/RahmaDawi"><img src="https://img.shields.io/badge/Hugging%20Face-1F1E1D?style=for-the-badge&logo=huggingface&logoColor=D97757" /></a>
+  <!-- <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-D97757?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> -->
 </p>
 
-### ⚙️ Tools & Platforms
+<br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Git-000?&logo=Git" />
-  <img src="https://img.shields.io/badge/-Linux-000?&logo=Linux" />
-  <img src="https://img.shields.io/badge/-HuggingFace-000?&logo=huggingface&logoColor=FFD21E" />
-  <img src="https://img.shields.io/badge/-Gradio-000?&logo=gradio&logoColor=F97316" />
-  <img src="https://img.shields.io/badge/-Power%20BI-000?&logo=powerbi" />
-  <img src="https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/-SQLite-000?&logo=sqlite" />
+## ✦ About me
+
+I'm an **AI & Data Science undergraduate at Egypt-Japan University of Science & Technology (E-JUST)** who likes building things that actually run. I care about the parts most people skip: preprocessing, feature engineering, and evaluating with the metric that matters for the domain (WER/CER for speech, FID for generative models, AUC-ROC and F1 for classification).
+
+- 🤖 Currently building **multi-agent LLM systems** with planning, tool calling and self-critique loops
+- 🎙️ Fine-tuned **Whisper** on Egyptian Arabic and trained a custom **CNN + Bi-LSTM + CTC** ASR from scratch
+- 🔬 Medical imaging, EEG biometrics and generative AI for scarce data
+- 🌱 Learning more about **CI/CD, MLOps and deployment**
+- 📍 Alexandria, Egypt · open to **AI / ML engineering internships**
+
+<br>
+
+## ✦ Featured projects
+
+| | Project | What it does | Highlights |
+|:-:|---|---|---|
+| 🤖 | **[Reflective Research Agent](https://github.com/RahmaDawy)** | Planner, tool-calling researcher, writer and self-review editor agents that produce cited research reports | Self-critique loop · parallel tasks · retry/backoff · FastAPI · PostgreSQL · Docker |
+| 🎙️ | **[Arabic Whisper ASR](https://huggingface.co/spaces/RahmaDawi/arabic-asr-demo)** | Whisper-small fine-tuned on 15K Egyptian Arabic samples, with a live Gradio demo | WER / CER · fp16 · SpecAugment · live on HF Hub |
+| 🎧 | **[CNN + Bi-LSTM CTC ASR](https://huggingface.co/spaces/RahmaDawi/arabic-asr-demo-lstm)** | Character-level Arabic ASR built from scratch | 120-dim MFCC · CTC loss · auto checkpointing |
+| 🩸 | **[Blood Cell Classification](https://github.com/RahmaDawy)** | 8-class classifier fusing deep and handcrafted features | **86.25%** acc · **0.986** AUC-ROC · κ 0.843 |
+| 🫁 | **[Chest X-Ray Diffusion](https://github.com/RahmaDawy)** | Latent diffusion model for synthetic pneumonia X-rays | FID scored · downstream classifier lift |
+| 🧠 | **[EEG Biometric ID](https://github.com/RahmaDawy/EEG-Biometric-Identification-Using-CNN-RNN)** | Identifies 109 subjects from resting-state EEG with a CRNN | **97%** acc · F1 0.97 · STFT spectrograms |
+| ☀️ | **[Solar PV Forecasting](https://github.com/RahmaDawy/Solar-Power-Prediction-Egypt)** | Power forecasting for Aswan, Egypt from sensor data | R² 0.70 · Willmott 0.91 · PCA / SVD / LDA |
+
+<br>
+
+## ✦ Tech stack
+
+**AI & ML**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-1F1E1D?style=flat-square&logo=pytorch&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/TensorFlow-1F1E1D?style=flat-square&logo=tensorflow&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Keras-1F1E1D?style=flat-square&logo=keras&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/scikit--learn-1F1E1D?style=flat-square&logo=scikitlearn&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Transformers-1F1E1D?style=flat-square&logo=huggingface&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/OpenCV-1F1E1D?style=flat-square&logo=opencv&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/LLM%20Agents-D97757?style=flat-square&logoColor=white" />
 </p>
 
----
-
-### 🚀 Featured Projects
-
-<p align="left">
-  <a href="https://huggingface.co/spaces/RahmaDawi/arabic-asr-demo" target="_blank"><img src="https://img.shields.io/badge/-Arabic%20Whisper%20ASR-000?&logo=huggingface&logoColor=FFD21E" /></a>
-  <a href="https://huggingface.co/spaces/RahmaDawi/arabic-asr-demo-lstm" target="_blank"><img src="https://img.shields.io/badge/-CNN%2BBiLSTM%20CTC%20ASR-000?&logo=pytorch" /></a>
-  <a href="https://github.com/RahmaDawy" target="_blank"><img src="https://img.shields.io/badge/-Blood%20Cell%20Classification-000?&logo=github" /></a>
-  <a href="https://github.com/RahmaDawy" target="_blank"><img src="https://img.shields.io/badge/-Chest%20X--Ray%20Diffusion-000?&logo=github" /></a>
-  <a href="https://github.com/RahmaDawy/EEG-Biometric-Identification-Using-CNN-RNN" target="_blank"><img src="https://img.shields.io/badge/-EEG%20Biometric%20ID-000?&logo=github" /></a>
-  <a href="https://github.com/RahmaDawy/Solar-Power-Prediction-Egypt" target="_blank"><img src="https://img.shields.io/badge/-Solar%20PV%20Forecasting-000?&logo=github" /></a>
+**Backend & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-1F1E1D?style=flat-square&logo=fastapi&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1F1E1D?style=flat-square&logo=postgresql&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Docker-1F1E1D?style=flat-square&logo=docker&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Git-1F1E1D?style=flat-square&logo=git&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Linux-1F1E1D?style=flat-square&logo=linux&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/MongoDB-1F1E1D?style=flat-square&logo=mongodb&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/SQLite-1F1E1D?style=flat-square&logo=sqlite&logoColor=D97757" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=RahmaDawy&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RahmaDawy&layout=compact&hide_border=true" height="165" />
+**Languages & Data**
+<p>
+  <img src="https://img.shields.io/badge/Python-1F1E1D?style=flat-square&logo=python&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/C++-1F1E1D?style=flat-square&logo=cplusplus&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/JavaScript-1F1E1D?style=flat-square&logo=javascript&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/SQL-1F1E1D?style=flat-square&logo=mysql&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Pandas-1F1E1D?style=flat-square&logo=pandas&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/NumPy-1F1E1D?style=flat-square&logo=numpy&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Power%20BI-1F1E1D?style=flat-square&logo=powerbi&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Gradio-1F1E1D?style=flat-square&logo=gradio&logoColor=D97757" />
 </p>
 
----
+<br>
 
-<p align="center"><i>📍 Alexandria, Egypt — open to Junior AI/ML Engineer internships</i></p>
+## ✦ GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=RahmaDawy&show_icons=true&hide_border=true&bg_color=FBF8F2&title_color=C15F3C&text_color=1F1E1D&icon_color=D97757&border_radius=16" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RahmaDawy&layout=compact&hide_border=true&bg_color=FBF8F2&title_color=C15F3C&text_color=1F1E1D&border_radius=16" />
+</p>
+
+<br>
+
+<p align="center"><i>✦ Let's build something that ships.</i></p>
