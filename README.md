@@ -4,15 +4,15 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=19&duration=3200&pause=900&color=3B7DE9&center=true&vCenter=true&width=760&height=40&lines=Agentic+AI+%C2%B7+LLM+orchestration+%C2%B7+tool+calling;Speech+recognition+%C2%B7+Computer+vision+%C2%B7+Generative+AI;From+raw%2C+noisy+data+to+systems+that+ship" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=19&duration=3200&pause=900&color=C15F3C&center=true&vCenter=true&width=760&height=40&lines=Agentic+AI+%C2%B7+LLM+orchestration+%C2%B7+tool+calling;Speech+recognition+%C2%B7+Computer+vision+%C2%B7+Generative+AI;From+raw%2C+noisy+data+to+systems+that+ship" alt="Typing animation" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahmadawy"><img src="https://img.shields.io/badge/LinkedIn-0B1633?style=for-the-badge&logo=linkedin&logoColor=9CC4F8" /></a>
-  <a href="mailto:dawyrahma@gmail.com"><img src="https://img.shields.io/badge/Email-0B1633?style=for-the-badge&logo=gmail&logoColor=9CC4F8" /></a>
-  <a href="https://huggingface.co/RahmaDawi"><img src="https://img.shields.io/badge/Hugging%20Face-0B1633?style=for-the-badge&logo=huggingface&logoColor=9CC4F8" /></a>
-  <!-- <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-3B7DE9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> -->
+  <a href="https://www.linkedin.com/in/rahmadawy"><img src="https://img.shields.io/badge/LinkedIn-1F1E1D?style=for-the-badge&logo=linkedin&logoColor=D97757" /></a>
+  <a href="mailto:dawyrahma@gmail.com"><img src="https://img.shields.io/badge/Email-1F1E1D?style=for-the-badge&logo=gmail&logoColor=D97757" /></a>
+  <a href="https://huggingface.co/RahmaDawi"><img src="https://img.shields.io/badge/Hugging%20Face-1F1E1D?style=for-the-badge&logo=huggingface&logoColor=D97757" /></a>
+  <!-- <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-D97757?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> -->
 </p>
 
 <br>
@@ -47,36 +47,36 @@ I'm an **AI & Data Science undergraduate at Egypt-Japan University of Science & 
 
 **AI & ML**
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-0B1633?style=flat-square&logo=pytorch&logoColor=9CC4F8" />
-  <img src="https://img.shields.io/badge/TensorFlow-0B1633?style=flat-square&logo=tensorflow&logoColor=9CC4F8" />
-  <img src="https://img.shields.io/badge/Keras-0B1633?style=flat-square&logo=keras&logoColor=9CC4F8" />
-  <img src="https://img.shields.io/badge/scikit--learn-0B1633?style=flat-square&logo=scikitlearn&logoColor=9CC4F8" />
-  <img src="https://img.shields.io/badge/Transformers-0B1633?style=flat-square&logo=huggingface&logoColor=9CC4F8" />
-  <img src="https://img.shields.io/badge/OpenCV-0B1633?style=flat-square&logo=opencv&logoColor=9CC4F8" />
-  <img src="https://img.shields.io/badge/LLM%20Agents-3B7DE9?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-1F1E1D?style=flat-square&logo=pytorch&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/TensorFlow-1F1E1D?style=flat-square&logo=tensorflow&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Keras-1F1E1D?style=flat-square&logo=keras&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/scikit--learn-1F1E1D?style=flat-square&logo=scikitlearn&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Transformers-1F1E1D?style=flat-square&logo=huggingface&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/OpenCV-1F1E1D?style=flat-square&logo=opencv&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/LLM%20Agents-D97757?style=flat-square&logoColor=white" />
 </p>
 
 **Backend & DevOps**
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-0B1633?style=flat-square&logo=fastapi&logoColor=9CC4F8" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0B1633?style=flat-square&logo=postgresql&logoColor=9CC4F8" />
-  <img src="https://img.shields.io/badge/Docker-0B1633?style=flat-square&logo=docker&logoColor=9CC4F8" />
-  <img src="https://img.shields.io/badge/Git-0B1633?style=flat-square&logo=git&logoColor=9CC4F8" />
-  <img src="https://img.shields.io/badge/Linux-0B1633?style=flat-square&logo=linux&logoColor=9CC4F8" />
-  <img src="https://img.shields.io/badge/MongoDB-0B1633?style=flat-square&logo=mongodb&logoColor=9CC4F8" />
-  <img src="https://img.shields.io/badge/SQLite-0B1633?style=flat-square&logo=sqlite&logoColor=9CC4F8" />
+  <img src="https://img.shields.io/badge/FastAPI-1F1E1D?style=flat-square&logo=fastapi&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1F1E1D?style=flat-square&logo=postgresql&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Docker-1F1E1D?style=flat-square&logo=docker&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Git-1F1E1D?style=flat-square&logo=git&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Linux-1F1E1D?style=flat-square&logo=linux&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/MongoDB-1F1E1D?style=flat-square&logo=mongodb&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/SQLite-1F1E1D?style=flat-square&logo=sqlite&logoColor=D97757" />
 </p>
 
 **Languages & Data**
 <p>
-  <img src="https://img.shields.io/badge/Python-0B1633?style=flat-square&logo=python&logoColor=9CC4F8" />
-  <img src="https://img.shields.io/badge/C++-0B1633?style=flat-square&logo=cplusplus&logoColor=9CC4F8" />
-  <img src="https://img.shields.io/badge/JavaScript-0B1633?style=flat-square&logo=javascript&logoColor=9CC4F8" />
-  <img src="https://img.shields.io/badge/SQL-0B1633?style=flat-square&logo=mysql&logoColor=9CC4F8" />
-  <img src="https://img.shields.io/badge/Pandas-0B1633?style=flat-square&logo=pandas&logoColor=9CC4F8" />
-  <img src="https://img.shields.io/badge/NumPy-0B1633?style=flat-square&logo=numpy&logoColor=9CC4F8" />
-  <img src="https://img.shields.io/badge/Power%20BI-0B1633?style=flat-square&logo=powerbi&logoColor=9CC4F8" />
-  <img src="https://img.shields.io/badge/Gradio-0B1633?style=flat-square&logo=gradio&logoColor=9CC4F8" />
+  <img src="https://img.shields.io/badge/Python-1F1E1D?style=flat-square&logo=python&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/C++-1F1E1D?style=flat-square&logo=cplusplus&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/JavaScript-1F1E1D?style=flat-square&logo=javascript&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/SQL-1F1E1D?style=flat-square&logo=mysql&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Pandas-1F1E1D?style=flat-square&logo=pandas&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/NumPy-1F1E1D?style=flat-square&logo=numpy&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Power%20BI-1F1E1D?style=flat-square&logo=powerbi&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Gradio-1F1E1D?style=flat-square&logo=gradio&logoColor=D97757" />
 </p>
 
 <br>
@@ -84,8 +84,8 @@ I'm an **AI & Data Science undergraduate at Egypt-Japan University of Science & 
 ## ✦ GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=RahmaDawy&show_icons=true&hide_border=true&bg_color=EAF2FD&title_color=1D3FA0&text_color=0B1633&icon_color=3B7DE9&border_radius=16" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RahmaDawy&layout=compact&hide_border=true&bg_color=EAF2FD&title_color=1D3FA0&text_color=0B1633&border_radius=16" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=RahmaDawy&show_icons=true&hide_border=true&bg_color=FBF8F2&title_color=C15F3C&text_color=1F1E1D&icon_color=D97757&border_radius=16" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RahmaDawy&layout=compact&hide_border=true&bg_color=FBF8F2&title_color=C15F3C&text_color=1F1E1D&border_radius=16" />
 </p>
 
 <br>
